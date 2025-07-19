@@ -2,6 +2,9 @@
 
 PyCut Pro is a powerful, open-source video editor built with Python and PyQt6 that provides professional-grade video editing capabilities. This application offers a comprehensive suite of tools for creating and editing videos with an intuitive interface.
 
+
+## Pycut Icon
+![Pycut Icon](./icon.ico)
 ## Features
 
 - **Timeline-based editing** with multiple video and audio tracks
@@ -39,7 +42,7 @@ pip install opencv-python numpy pillow pyqt6
 
 ### Running the Application
 ```bash
-python pycut_pro.py
+python Pycut.py
 ```
 
 ## Usage
@@ -63,9 +66,9 @@ python pycut_pro.py
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## Screenshot
+## Download for Windows 10/11
 
-![PyCut Pro Interface](screenshot.png)
+[Download](./dist/Pycut.exe)
 
 ---
 
